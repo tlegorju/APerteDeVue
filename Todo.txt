@@ -1,0 +1,7 @@
+Todo:
+- add 3d model for player
+- add stylization of pickup
+- make a level design
+- add level decoration
+- add sound for footstep + pickup
+- Add PNJs with dialog
